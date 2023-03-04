@@ -1,0 +1,1 @@
+.map{margin-top:30px}.row{flex-wrap:nowrap}.cell,.row{display:flex;justify-content:center}.cell{align-items:center;border-bottom:0;border-right:0;color:#999;flex-grow:0;flex-shrink:0;font-size:10px;height:4px;width:4px}.cell--mark{background:#333;color:#ffc;font-weight:700}
